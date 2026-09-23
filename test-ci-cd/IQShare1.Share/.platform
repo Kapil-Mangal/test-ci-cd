@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.1.0/schema.json",
+  "metadata": {
+    "type": "Share",
+    "displayName": "IQShare1",
+    "description": "IQShare 1 description",
+    "sensitivityLabelId": "00000000-0000-0000-0000-000000000000"
+  },
+  "config": {
+    "version": "2.1",
+    "logicalId": "b7ad582b-64dd-9f68-4817-c6cbf677b2a4"
+  }
+}
