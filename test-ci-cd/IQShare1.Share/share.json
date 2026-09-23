@@ -8,6 +8,14 @@
         "itemId": "dd6f4a02-3860-8397-4844-2c4f37245dac"
       },
       "shareAs": "MirroredOneLake"
+    },
+    {
+      "item": {
+        "referenceType": "ById",
+        "workspaceId": "00000000-0000-0000-0000-000000000000",
+        "itemId": "8c9d0112-88d3-85a0-490f-bbf7a6f3a23e"
+      },
+      "shareAs": "MirroredOneLake"
     }
   ],
   "recipients": [
