@@ -1,0 +1,36 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/share/definition/share/1.0.0/schema.json",
+  "assets": [
+    {
+      "item": {
+        "referenceType": "ById",
+        "workspaceId": "00000000-0000-0000-0000-000000000000",
+        "itemId": "0cf36a89-38d5-9f60-4ec0-97556ff6a358"
+      },
+      "shareAs": "MirroredOneLake"
+    },
+    {
+      "item": {
+        "referenceType": "ById",
+        "workspaceId": "00000000-0000-0000-0000-000000000000",
+        "itemId": "51b93ffb-2e8b-ad6d-4858-377893834aef"
+      },
+      "shareAs": "MirroredOneLake"
+    }
+  ],
+  "recipients": [
+    {
+      "userPrincipalName": "AdminUser01@dailybackup08052026.onmicrosoft.com",
+      "tenantId": "08afb383-4ffb-410a-98cd-3ee76dea14ab",
+      "type": "User"
+    }
+  ],
+  "sharePolicies": [
+    {
+      "type": "ShareExpiration",
+      "properties": {
+        "expirationDateTime": "2026-10-14T18:29:59Z"
+      }
+    }
+  ]
+}
